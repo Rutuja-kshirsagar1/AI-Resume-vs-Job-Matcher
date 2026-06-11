@@ -1,4 +1,3 @@
-# AI-Resume-vs-Job-Matcher
 
 # AI Resume vs Job Matcher
 
